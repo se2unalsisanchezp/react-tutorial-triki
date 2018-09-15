@@ -18,8 +18,8 @@ ol, ul {
 }
 
 .square {
-  background: #fff;
-  border: 1px solid #999;
+  background: #98FB98	;
+  border: 2px solid black;
   float: left;
   font-size: 24px;
   font-weight: bold;
@@ -37,7 +37,7 @@ ol, ul {
 }
 
 .kbd-navigation .square:focus {
-  background: #ddd;
+  background: #FFFFFF	;
 }
 
 .game {
